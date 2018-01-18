@@ -1,4 +1,4 @@
-# Deep-Learning-Journey
+# Deep Learning Journey
 
 This repository achieve these items I practiced along in understanding deep learning.
 
