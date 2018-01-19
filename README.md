@@ -6,5 +6,11 @@ Most of the code examples are actually from Udacity Deep Learning Nano Degree bu
 
 Here is the Udacity course Github link: https://github.com/udacity/deep-learning
 
-I am posting up my assignment solutions and some other codes I practiced and found useful to document my learnings and hopefully, you may find them beneficial as well. However, if you are also a student enrolling this program, please do not directly copy the answer here. You are learning something which will accompany you for the rest of your life. Don't be lured by the seemingly easier path. Go get headaches yourself and when you are done, comparing mine or Udacity's solution to uncover different solutions for the same problem.
+I am posting up my assignment solutions and some other codes I practiced and found useful to document my learnings and hopefully, you may find them beneficial as well. However, if you are also a student enrolling this program, please do not directly copy the answer here. You are learning something which will accompany you for the rest of your life. Don't be lured by the seemingly easier path. Go get headaches yourself and when you are done, comparing mine or Udacity's solution to uncover different solutions for the same problem.The very skills of problem-solving are the things we need to excel in any aspects of life.
+
+To get the most of this program, after finishing each part of study, I examined most of the exercise codes written by Udacity line by line to see what I can learn from them and try to see whether I can improve these codes in some way. I had commented places where I made changes and you can ignore them if you do not like.
+
+
+
+
 
