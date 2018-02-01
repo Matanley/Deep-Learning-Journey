@@ -1,6 +1,4 @@
-## Notice
 
-This notebook came from Udadcity Deep Learning Nano Degree. I had finished the project and had done a thorough study with the codes which I learnt a lot. I delete all the other files which you can download from Udacity's github page and leaving only my own personal setup. Hope this can be useful for anyone who are also working on deep learning study. Please do not copy the answer here if you are a student of this program!
 
 [//]: # (Image References)
 
