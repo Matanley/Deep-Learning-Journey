@@ -1,0 +1,8 @@
+If padding = 'same', then the spatial dimensions of the convolutional layer are the following:
+
+height = ceil(float(H_in) / float(S))
+width = ceil(float(W_in) / float(S))
+If padding = 'valid', then the spatial dimensions of the convolutional layer are the following:
+
+height = ceil(float(H_in - F + 1) / float(S))
+width = ceil(float(W_in - F + 1) / float(S))
