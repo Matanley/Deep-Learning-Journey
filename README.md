@@ -10,7 +10,8 @@ Here is the Udacity course link: https://github.com/udacity/deep-learning
 
 I am posting up my assignment solutions and some other codes I practiced and found useful to document my learnings and hopefully, you may find them beneficial as well. However, if you are also a student enrolling this program, please do not directly copy the answer here. You are learning something which will accompany you for the rest of your life. Don't be lured by the seemingly easier path. Go get headaches yourself and when you are done, comparing mine or Udacity's solution to uncover different solutions for the same problem.The very skills of problem-solving are the things we need to excel in any aspects of life.
 
-I finished this course within 4 months and was the 2nd person of my cohort. The process itself is a great reward and I will continue learning and have fun!
+I finished this course within 4 months and was the 2nd person of my cohort. I also signed in the Computer Vision Nano Degree immediately after the graduation and the related projects are also uploaded here for me to check from time to time. The process itself is a great reward and I will continue learning and have fun!
+
 
 
 
